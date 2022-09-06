@@ -1,4 +1,4 @@
-# zoomer-backend-api
+# Zoomer Backend API
 
 ## Documentation
 

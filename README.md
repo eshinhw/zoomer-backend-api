@@ -12,6 +12,4 @@
 - Git and Git Flow
 - Docker
 
-## API Documentation
-
 [Zoomer API Documentation](https://documenter.getpostman.com/view/21781850/UzJFxK4f#intro)

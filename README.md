@@ -10,6 +10,6 @@
 - API gateway
 - REST API endpoints with Neo4J Graph, PostreSQL, and MongoDB
 - Git and Git Flow
-- Docker
+- Java Maven and Docker
 
 [Zoomer API Documentation](https://documenter.getpostman.com/view/21781850/UzJFxK4f#intro)

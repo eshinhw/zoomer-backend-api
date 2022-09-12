@@ -12,4 +12,6 @@
 - Git and Git Flow
 - Java Maven and Docker
 
-[Zoomer API Documentation](https://documenter.getpostman.com/view/21781850/UzJFxK4f#intro)
+## Documentation
+
+- [Zoomer API Documentation](https://documenter.getpostman.com/view/21781850/UzJFxK4f#intro)
